@@ -1,0 +1,32 @@
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\obj\Debug\BL.Lacteos.csprojResolveAssemblyReference.cache
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\BL.Lacteos.dll.config
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\BL.Lacteos.dll
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\BL.Lacteos.pdb
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\EntityFramework.dll
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\EntityFramework.xml
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\obj\Debug\BL.Lacteos.dll
+C:\Users\billy\Downloads\Ventas-main (4)\Ventas-main\Lacteos\BL.Lacteos\obj\Debug\BL.Lacteos.pdb
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\BL.Lacteos.dll.config
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\BL.Lacteos.dll
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\BL.Lacteos.pdb
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.dll
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.xml
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.csprojResolveAssemblyReference.cache
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.dll
+C:\Users\ALFA\Desktop\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.pdb
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\BL.Lacteos.dll.config
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\BL.Lacteos.dll
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\BL.Lacteos.pdb
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.csproj.CopyComplete
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.dll
+C:\Users\PC\Desktop\LACTEOS\LACTEOS\BL.Lacteos\obj\Debug\BL.Lacteos.pdb
